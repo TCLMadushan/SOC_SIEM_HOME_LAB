@@ -1,0 +1,20 @@
+SIEM Server (Ubuntu)
+ - Wazuh installed with official script of : wazuh-install.sh -a
+ - Dashboard running on port 443
+ - Agent communicating on port 1514/tcp
+
+Windows Agent
+ - Wazuh agent installed and pinned to 192.168.56.107
+ - Agent name: Windows10
+ - Status: Active
+
+Network
+ - All machines on Host-only-Adapter(vboxnet0)
+ - Static IPs used for stability
+
+Attack Tools Used
+ - nmap -A -T4 -p 1-1000
+ - nmap -sV -sC -T4
+ - SMB enumeration scripts
+ - wrong credentials
+
