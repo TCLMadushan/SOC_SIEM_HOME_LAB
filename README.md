@@ -43,16 +43,6 @@ This project demonstrates the deployment and operation of a complete SIEM enviro
 - Generate and analyze real security events
 - Practice Blue Team / SOC Level 1 skills in a controlled environment
 
-## Screenshots
-
-*(Add your screenshots here)*
-
-- Wazuh Dashboard overview
-- Windows agent status
-- Threat Hunting / Security Events
-- Attack simulation from Kali
-- Generated alerts
-
 ## Skills Demonstrated
 
 - SIEM Deployment & Configuration
