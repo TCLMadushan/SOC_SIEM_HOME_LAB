@@ -76,7 +76,7 @@ This project demonstrates the deployment and operation of a complete SIEM enviro
 Aspiring SOC Analyst | Cybersecurity Undergraduate – SLIIT  
 
 - GitHub: [https://github.com/TCLMadushan](https://github.com/TCLMadushan)
-- LinkedIn: *(add your LinkedIn link)*
+- LinkedIn: https://www.linkedin.com/in/lakshitha-madushan-a47857271?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
